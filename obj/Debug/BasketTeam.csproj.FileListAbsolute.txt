@@ -34,9 +34,9 @@ C:\Users\siposz\Gitwork\BasketTeam\bin\Debug\System.Numerics.Vectors.xml
 C:\Users\siposz\Gitwork\BasketTeam\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\siposz\Gitwork\BasketTeam\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\siposz\Gitwork\BasketTeam\obj\Debug\BasketTeam.csproj.AssemblyReference.cache
-C:\Users\siposz\Gitwork\BasketTeam\obj\Debug\BasketTeam.csproj.SuggestedBindingRedirects.cache
 C:\Users\siposz\Gitwork\BasketTeam\obj\Debug\BasketTeam.exe.config
 C:\Users\siposz\Gitwork\BasketTeam\obj\Debug\BasketTeam.csproj.CoreCompileInputs.cache
-C:\Users\siposz\Gitwork\BasketTeam\obj\Debug\BasketTeam.csproj.Up2Date
 C:\Users\siposz\Gitwork\BasketTeam\obj\Debug\BasketTeam.exe
 C:\Users\siposz\Gitwork\BasketTeam\obj\Debug\BasketTeam.pdb
+C:\Users\siposz\Gitwork\BasketTeam\obj\Debug\BasketTeam.csproj.SuggestedBindingRedirects.cache
+C:\Users\siposz\Gitwork\BasketTeam\obj\Debug\BasketTeam.csproj.Up2Date
